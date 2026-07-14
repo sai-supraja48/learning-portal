@@ -229,7 +229,7 @@ JWT_SECRET=your_secret_key
 
 Deploy using:
 
-- Netlify
+- Netlify   :   https://learning-portal-project.netlify.app/
 
 ## Backend
 
