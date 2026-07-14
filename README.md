@@ -268,7 +268,7 @@ Example:
 
 ## Video Player
 
-![Video Player](screenshots/watch-video.png)
+![Video Player](screenshots/watchvideo.png)
 
 ---
 
