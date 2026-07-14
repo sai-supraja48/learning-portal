@@ -107,7 +107,7 @@ learning-portal
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/learning-portal.git
+git clone https://github.com/sai-supraja48/learning-portal.git
 ```
 
 ---
